@@ -173,5 +173,12 @@
     "url": "https://negativespace.co/",
     "category": "frontend",
     "subcategory": "images"
+  },
+  {
+    "name": "VistaCreate",
+    "description": "VistaCreate is a free graphic design tool with thousands of free templates.",
+    "url": "https://create.vista.com/de/",
+    "category": "frontend",
+    "subcategory": "images"
   }
 ]
